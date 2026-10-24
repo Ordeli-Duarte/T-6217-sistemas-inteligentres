@@ -13,8 +13,11 @@ nota2 = 8.0
 nota3 = 9.5
 soma_notas = nota1 + nota2 + nota3
 media = soma_notas / 3
+
 print(f"""O aluno {nome_aluno} obteve as seguintes notas: {nota1}, {nota2} e {nota3}. A média das notas é: {media}""")
+
 nota2 = 6.5
 soma_notas = nota1 + nota2 + nota3
 media = soma_notas / 3
+
 print(f"""O aluno {nome_aluno} obteve as seguintes notas: {nota1}, {nota2} e {nota3}. A média das notas é: {media}""")
