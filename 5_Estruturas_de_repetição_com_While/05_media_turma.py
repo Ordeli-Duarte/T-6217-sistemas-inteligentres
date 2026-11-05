@@ -16,7 +16,7 @@ soma = 0
 
 if quantidade_alunos < 1:
     print("a quantidade deve ser maior que zero")
-else:
+else:  
     while contador <= quantidade_alunos:
         nota = float(input(f"Digite a nota do {contador}º aluno: "))    
         soma = soma = nota
