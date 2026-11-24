@@ -8,3 +8,4 @@ lblNome = tk.Label(janela, text="Nome:")
 nome = tk.Entry(janela, width=30)
 
 lblIdade = tk.Label(janela, )
+idade = tk.Entry(janela, width=30)
